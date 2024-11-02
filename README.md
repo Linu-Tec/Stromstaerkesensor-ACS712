@@ -3,4 +3,4 @@ Stromstärkesensor (ACS712)
 
 
 
-(Infos)[https://funduino.de/stromstaerkesensor-arduino]
+[Infos](https://funduino.de/stromstaerkesensor-arduino)
